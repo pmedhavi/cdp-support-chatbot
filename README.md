@@ -67,7 +67,5 @@ A sophisticated chatbot that answers "how-to" questions and provides comparisons
 - Add user feedback system
 
 ## Author
-[Your Name]
+[Prakhar Medhavi]
 
-## License
-MIT
